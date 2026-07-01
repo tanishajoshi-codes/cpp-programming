@@ -18,8 +18,7 @@ int main()
             break;
         }
     }
-
-    if(found)
+      if(found)
     {
         cout << "Found";
     }
